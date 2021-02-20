@@ -5,3 +5,20 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.thumb{
+    line-height: 6em;
+}
+i{
+    font-size: 4em;
+    vertical-align: middle;;
+}
+i:hover{
+    font-size: 5em;
+}
+.features{
+    padding: 100px 0;
+}
+.feature{
+    padding: 0 50px;
+    /* margin-bottom: 70px; */
+}
