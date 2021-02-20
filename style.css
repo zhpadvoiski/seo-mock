@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 .banner-section{
     height: 600px;
     background: url(/media/bg-masthead.jpg);
@@ -12,6 +15,10 @@ i{
     font-size: 4em;
     vertical-align: middle;;
 }
+img{
+    width: 100%;
+    display: block;
+}
 i:hover{
     font-size: 5em;
 }
@@ -21,4 +28,8 @@ i:hover{
 .feature{
     padding: 0 50px;
     /* margin-bottom: 70px; */
+}
+.image-box{
+    background-size: cover;
+    min-height: 450px;
 }
