@@ -1,0 +1,7 @@
+.banner-section{
+    height: 600px;
+    background: url(/media/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
