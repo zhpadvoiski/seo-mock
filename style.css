@@ -33,12 +33,9 @@ i:hover{
     max-width: 250px;
     overflow: hidden;
 }
-/* .testimonial img{
-    border-radius: 50%;
-    max-width: 250px;
-} */
 .image-box{
-    background-size: cover;
+    background-size: cover!important;
+    background-repeat: no-repeat!important;
     min-height: 450px;
 }
 .footer{
