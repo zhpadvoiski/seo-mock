@@ -44,3 +44,6 @@ i:hover{
 .footer{
     height: 350px;
 }
+footer .social i{
+    font-size: 2em;
+}
